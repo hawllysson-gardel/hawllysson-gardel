@@ -1,4 +1,4 @@
-## Olá, 👋 bem vindo ao meu perfil! Meu nome é Hawllysson Gardel, sou full stack developer web/mobile e design de hardware.
+## 👋 Olá, bem vindo ao meu perfil! Meu nome é Hawllysson Gardel, sou desenvolvedor full stack web/mobile e design de hardware.
 
 <br>
 
