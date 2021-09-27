@@ -36,4 +36,9 @@
 </div>
 
 ![Snake animation](https://github.com/hawllysson-gardel/hawllysson-gardel/blob/output/github-contribution-grid-snake.svg)
- 
+
+<p align="center">
+  Visitas no perfil:
+  <br/>
+  <img src="https://profile-counter.glitch.me/hawllysson-gardel/count.svg">
+</p>
