@@ -14,7 +14,11 @@
 
 ###
 
-<p align="left">Software and Data Engineer with extensive experience in the development and maintenance of both current and legacy systems. With nearly 8 years of experience, I am committed to engineering best practices and the technical efficiency of the teams I work with.<br><br>Currently, I serve as a Senior Software and Data Engineer at XIPP, focusing on projects related to the insurance sector. I hold a degree in Systems Analysis and Development (ADS), with 7 ongoing post-graduate courses (including 3 MBAs) and two AWS certifications, with a third in progress. This demonstrates that, in addition to the projects I execute, I am constantly enhancing my skills and staying updated with new technologies and market trends, aiming to contribute to the success of the projects I participate in. I have the advantage of moving between multidisciplinary teams, speaking the language from DevOps to user, and understanding each one's challenges.<br><br>I have comprehensive experience in all phases of the software lifecycle, from solution design to implementation, support, and technological upgrades. I am enthusiastic about collaborating with software development teams that strive for technical excellence and are always improving.</p>
+<p align="left">Software and Data Engineer with extensive experience in developing and maintaining current and legacy systems. With almost 8 years of experience, I am committed to best engineering practices and the technical efficiency of the teams I work with.
+
+I currently work as a Senior Software and Data Engineer at XIPP, focusing on projects in the insurance sector. I have a degree in Systems Analysis and Development (ADS), 7 postgraduate degrees (including 3 MBAs) and two AWS certifications, with a third in progress. This proves that, in addition to the projects I execute, I am constantly improving my skills and keeping up to date with new technologies and market trends, aiming to contribute to the success of the projects I participate in. I have the advantage of migrating between multidisciplinary teams, speaking the language from DevOps to the user, and understanding the pain points of each one.
+
+I have extensive experience in all phases of the software life cycle, from solution design to implementation, support and technological updates. I am very enthusiastic about collaborating on software development teams that strive for technical excellence and are always improving technically.</p>
 
 ###
 
