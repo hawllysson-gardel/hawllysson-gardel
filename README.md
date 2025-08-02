@@ -14,12 +14,11 @@
 
 ###
 
-<p align="left">Software and Data Engineer with extensive experience in developing and maintaining current and legacy systems. With almost 8 years of experience, I am committed to best engineering practices and the technical efficiency of the teams I work with.
+<p align="left">I’m a Senior Software Engineer with over 8+ years of experience developing scalable backend systems, cloud infrastructure, and automation solutions in both startups and enterprise environments. My core focus is on building microservices using Java and Spring, and delivering automation and data-processing workflows with Python.
 
-I currently work as a Senior Software and Data Engineer at XIPP, focusing on projects in the insurance sector. I have a degree in Systems Analysis and Development (ADS), 7 postgraduate degrees (including 3 MBAs) and two AWS certifications, with a third in progress. This proves that, in addition to the projects I execute, I am constantly improving my skills and keeping up to date with new technologies and market trends, aiming to contribute to the success of the projects I participate in. I have the advantage of migrating between multidisciplinary teams, speaking the language from DevOps to the user, and understanding the pain points of each one.
+I hold a degree in Systems Analysis and Development, along with seven postgraduate certificates — including three MBAs — and multiple AWS certifications (two completed, one in progress). I’m continuously learning and staying up to date with modern tools, cloud technologies, and software architecture best practices.
 
-I have extensive experience in all phases of the software life cycle, from solution design to implementation, support and technological updates. I am very enthusiastic about collaborating on software development teams that strive for technical excellence and are always improving technically.</p>
-
+I work well in cross-functional teams and am comfortable collaborating with developers, DevOps, product managers, and end users. I value clean, maintainable code — but also understand the importance of aligning technical solutions with business needs and long-term product goals.
 ###
 
 <h2 align="left">Technologies</h2>
