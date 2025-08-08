@@ -14,11 +14,21 @@
 
 ###
 
-<p align="left">I’m a Senior Software Engineer with over 8+ years of experience developing scalable backend systems, cloud infrastructure, and automation solutions in both startups and enterprise environments. My core focus is on building microservices using Java and Spring, and delivering automation and data-processing workflows with Python.
+<p align="left">I am a Senior Full Stack & Cloud Software Engineer with over 8 years of experience delivering scalable backend systems, REST API
+design, cloud-native architectures, and automation solutions for startups and enterprise environments. My expertise includes building
+microservices with Java (Spring Boot, Spring Cloud) and developing automation, data engineering, and ETL workflows in Python.
 
-I hold a degree in Systems Analysis and Development, along with seven postgraduate certificates — including three MBAs — and multiple AWS certifications (two completed, one in progress). I’m continuously learning and staying up to date with modern tools, cloud technologies, and software architecture best practices.
+I have hands-on experience with AWS and Azure, as well as strong DevOps & CI/CD skills using Terraform, Ansible, Docker,
+Kubernetes and GitHub Actions. I apply software development best practices, SOLID principles, and security hardening to ensure robust,
+maintainable, and secure solutions.
 
-I work well in cross-functional teams and am comfortable collaborating with developers, DevOps, product managers, and end users. I value clean, maintainable code — but also understand the importance of aligning technical solutions with business needs and long-term product goals.
+Career highlights include reducing cloud infrastructure costs by up to 50% through architectural optimization, leading RPA and ETL
+projects processing millions of records, and creating CI/CD pipelines that improved delivery speed and reliability. I have also leveraged AI
+tools such as Devin AI and ChatGPT to accelerate development, enhance code quality, and boost productivity.
+
+I excel in cross-functional collaboration, working closely with developers, DevOps engineers, product managers, and business
+stakeholders to deliver solutions aligned with both technical and strategic goals. My approach combines clean, maintainable code, software
+development best practices, and scalable, secure architectures, with a deep understanding of how technology drives business value.
 ###
 
 <h2 align="left">Technologies</h2>
